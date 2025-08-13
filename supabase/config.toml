@@ -1,0 +1,10 @@
+project_id = "nqfygwenjpgaoidltuau"
+
+[functions.generate-content]
+verify_jwt = false
+
+[functions.composio-initiate-connect]
+verify_jwt = false
+
+[functions.composio-publish]
+verify_jwt = false
